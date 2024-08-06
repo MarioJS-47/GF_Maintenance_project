@@ -7,7 +7,6 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    
 }
 
 .logo1 {
@@ -177,6 +176,8 @@ input[type="date"] {
     display: flex;
     justify-content: center;
     margin-top: 30px;
+    margin-left: 15px;
+    margin-right: 15px;
 }
 
 .header_table {
@@ -184,7 +185,7 @@ input[type="date"] {
 }
 
 .t_h {
-    padding: 6px 20px;
+    padding: 4px 20px;
     border: solid 3px  rgb(5, 9, 20) ;
     font-size: 12px;
 }
@@ -194,7 +195,7 @@ thead {
 }
 
 tbody td {
-    padding: 6px 20px;
+    padding: 6px 15px;
     background-color: rgb(199, 199, 209);
     border: solid 3px  rgb(5, 9, 20) ;
     font-size: 10.5px;

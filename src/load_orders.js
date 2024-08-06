@@ -1,5 +1,5 @@
 
-/*
+
 
 const url = "https://maintenance-maintenance-server.turso.io/v2/pipeline";
     const authToken = "eyJhbGciOiJFZERTQSIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MjA2OTE2MTAsImlkIjoiZjk1YzJlMDItMTQwZi00MWZiLTgzNzEtODQ0Zjc5ZWYyZmQ2In0.2LvBX9yWMywa9uhaAJW96hNAMuk8CzXHlciNi6ImZhyXp1BGmZfh5gpS08ZhyER4Z2AkvILyEOxeTyiywarxAQ";
@@ -72,4 +72,3 @@ const url = "https://maintenance-maintenance-server.turso.io/v2/pipeline";
         })
 
     .catch((err) => console.log(err));
-*/
